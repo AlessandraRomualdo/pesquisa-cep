@@ -7,5 +7,5 @@
 <div>
 <img width="250" src="cep.png"/>
 <img width="250" src="error-cep.png"/>
-<img width="250" src="result-ceppng"/>
+<img width="250" src="result-cep.png"/>
 </div>

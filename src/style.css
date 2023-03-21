@@ -40,3 +40,7 @@ input {
   width: 300px;
   height: auto;
 }
+
+strong {
+  color: rgb(162, 224, 70);
+}

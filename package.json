@@ -1,0 +1,21 @@
+{
+  "name": "api-cep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "test": "NODE_OPTIONS=--experimental-vm-modules NODE_NO_WARNINGS=1 npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.3",
+    "vite": "^4.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
